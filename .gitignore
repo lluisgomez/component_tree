@@ -1,13 +1,7 @@
-# Compiled Object files
-*.slo
-*.lo
+*jpg
+*JPG
+*png
+*PNG
+
+component_tree
 *.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
